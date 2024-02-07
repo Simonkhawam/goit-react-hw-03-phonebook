@@ -1,0 +1,80 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #f37777;
+  text-decoration: none;
+  width: min-content;
+  padding: 40px;
+  margin: 0 auto;
+  margin-top: 80px;
+  border-radius: 15px;
+}
+.test {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border: 1px solid black;
+  text-decoration: none;
+}
+.contact-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.delete.button {
+  color: #1a0a0a;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  letter-spacing: 1px;
+  line-height: 1.3em;
+  position: relative;
+  z-index: 1;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+.submit-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  margin: 0 auto;
+  position: relative;
+  top: 16px;
+}
+
+.name-title {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.number-title {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  text-decoration: none;
+}
+.contact-list {
+  text-decoration: none;
+}
+li {
+  text-decoration: none;
+  list-style-type: none;
+  text-decoration: none;
+}
